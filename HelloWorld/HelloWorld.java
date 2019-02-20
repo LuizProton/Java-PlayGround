@@ -1,7 +1,12 @@
+
 /*
- * FILE: HelloWorld.java
- * AUTHOR: Proton
- * DESCRIPTIONS: Print a massage 'Hello, world!' on the screen.
+ * Print a massage 'Hello, world!' on the screen.
+ */
+
+/**
+ @author Proton
+ @version 1.0
+ @since 2019-02-20
 */
 
 //Create the main class HelloWorld.
