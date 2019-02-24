@@ -1,5 +1,5 @@
 /*
- * Esse codigo contem uma estrutura de repetiçao que contará de 
+ * Esse codigo contem uma estrutura de repetição que contará de 
  * 1 a 10 mas exibirá a mensagem "Ainda estou contando..." enquanto
  * estiver contando de 4 a 8.
  */
@@ -13,17 +13,17 @@
 public class Main{
 	public static void main(String[] args){
 		
-		//Declarando e iniciando a variavel count.
+		//Declarando e iniciando a variável count.
 		int count = 0;
 		
 		//Bloco while que irá realizar o loop.
 		while(count < 10){
 			
-			//Adcionando mais um na variavel count.
+			//Adcionando mais um na variável count.
 			count++;
 			
 			//Bloco condicional que irá exibir a mensagem "Ainda estou contando"
-			//se a variavel count for maior que 3 e menor que 9.
+			//se a variável count for maior que 3 e menor que 9.
 			if(count>3 && count <9){
 				System.out.println("Ainda estou contando...");
 				
