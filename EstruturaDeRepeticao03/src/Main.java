@@ -1,5 +1,5 @@
 /*
- * Esse programa irá contar o numero de vezes que o usuário definir na entrada de dados.
+ * Esse programa irá contar até o valor que o usuário definir na entrada de dados.
  * O processo é feito atravez de um loop infinito que será interrompido por um break
  * quando o numero de contagem for igual ao definido pelo usuário.
  */
@@ -19,7 +19,7 @@ public class Main{
 		//Instanciando um objeto Scanner na variável input.
 		Scanner input = new Scanner(System.in);
 		
-		//Exibindo mensagem de instruçao.
+		//Exibindo mensagem de instrução.
 		System.out.print("Digite até quanto contar: ");
 		
 		//Armazenando a valor do input na variável ate.
